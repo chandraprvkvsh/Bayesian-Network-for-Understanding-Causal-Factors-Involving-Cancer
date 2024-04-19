@@ -1,4 +1,3 @@
-# Probabilistic-cause-and-affect-interpretation-of-factors-affecting-Cancer
 # Brief Introduction
 
 Objective of this project was to build a Probabilistic Graphical Model and learning the cause and effect relationship between factors affecting cancer and making queries on the model,
