@@ -2,8 +2,8 @@
 
 Objective of this project was to build a Probabilistic Graphical Model and learning the cause and effect relationship between factors affecting cancer and making queries on the model,
 
-Query1: Will the patient be having ‘tuberculosis’ given that the patient smokes but no problem of dyspnoea?
-Query2: What is the most probable value of ‘x ray’ conditioning patient is from asia and has lung cancer?
+Query 1: Will the patient be having ‘tuberculosis’ given that the patient smokes but no problem of dyspnoea?
+Query 2: What is the most probable value of ‘x ray’ conditioning patient is from asia and has lung cancer?
 Query 3: What is the most probable value of bronc if patient has the issue of dyspnoea , he is from asia but does not have either of the diseases?
 
 The project involved building the model, Using MLE to generate CPD for all the nodes present in model and using Variable Elimination algorithm for solving  Query1, Query2 and Query3.
